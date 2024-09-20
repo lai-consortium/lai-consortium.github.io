@@ -12,7 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Managing Board
-          - PhD Students
+          - PhD Students & Staff
           - Advisory Board
           - Scientific Board
           - Clinical Advisors
