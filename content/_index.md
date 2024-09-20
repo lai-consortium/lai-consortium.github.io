@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        The **L**iver **A**rtificial **I**ntelligence (LAI) consortium
       image:
-        filename: welcome.jpg
+        filename: about_lai/LAILogo.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The mission of the **LAI consortium** is to fast-forward the development, validation, and implementation of machine learning methods that could support MRI-based diagnosis of liver lesions. 
   
   - block: collection
     content:
