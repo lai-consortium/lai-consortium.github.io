@@ -45,9 +45,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2024, LAI'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -57,7 +57,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
-  address_format: en-us
+  address_format: nl
 
 # Site features
 
@@ -70,7 +70,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
