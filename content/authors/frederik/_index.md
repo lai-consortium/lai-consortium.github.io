@@ -17,7 +17,7 @@ role: PhD Student, Erasmus MC
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #  - Artificial Intelligence
@@ -59,7 +59,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Managing Board
+  - PhD Students & Staff
 ---
 # Biography
 Frederik successfully completed his B.Sc. in Electrical Engineering at the University of Rostock, Germany, in 2022. His academic journey continued as he joined the Erasmus Mundus Joint Master Degree program in Medical Imaging and Applications, a collaborative effort among the Universities of Girona, Burgundy, and Cassino. For his final year project, Frederik became part of the BIGR group, working on his master thesis under the supervision of Douwe Spaanderman. Afterwards, Frederik continued as a PhD candidate with the goal of automatically detecting and differentiating liver lesions from MRI scans. The ambition is to improve patient outcomes by providing clinicians with state-of-the-art, patient-tailored predictions.
