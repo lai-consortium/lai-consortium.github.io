@@ -10,7 +10,7 @@ sections:
       title: |
         The **L**iver **A**rtificial **I**ntelligence (LAI) consortium
       image:
-        filename: about_lai/LAILogo.png
+        filename: logo.png
       text: |
         <br>
         
