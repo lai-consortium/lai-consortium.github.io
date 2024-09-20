@@ -21,7 +21,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 1
       filters:
         author: ''
         category: ''
@@ -32,7 +32,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: compact
       columns: '1'
   
   - block: markdown
@@ -44,12 +44,12 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: about_lai/lai_worldmap_cropped.jpg
           filters:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: contain
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
