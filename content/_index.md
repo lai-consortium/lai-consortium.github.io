@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        The **L**iver **A**rtificial **I**ntelligence (LAI) consortium
+        The **L**iver **A**rtificial **I**ntelligence (LAI) Consortium
       image:
         filename: logo.png
       text: |
