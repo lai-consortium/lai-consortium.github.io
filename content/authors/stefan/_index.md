@@ -10,7 +10,7 @@ last_name: Klein
 superuser: true
 
 # Role/position
-role: Associate Professor / General Chair, Erasmus MC
+role: Associate Professor, Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
