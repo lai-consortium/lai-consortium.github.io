@@ -59,7 +59,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students & Staff
+  - PhD Students & Enablers
 ---
 # Biography
 Frederik successfully completed his B.Sc. in Electrical Engineering at the University of Rostock, Germany, in 2022. His academic journey continued as he joined the Erasmus Mundus Joint Master Degree program in Medical Imaging and Applications, a collaborative effort among the Universities of Girona, Burgundy, and Cassino. For his final year project, Frederik became part of the BIGR group, working on his master thesis under the supervision of Douwe Spaanderman. Afterwards, Frederik continued as a PhD candidate with the goal of automatically detecting and differentiating liver lesions from MRI scans. The ambition is to improve patient outcomes by providing clinicians with state-of-the-art, patient-tailored predictions.

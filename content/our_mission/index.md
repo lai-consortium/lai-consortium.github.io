@@ -14,15 +14,15 @@ sections:
 
         Differential diagnosis of solid appearing liver lesions (groups of abnormal cells in the liver, either malignant or benign) based on magnetic resonance imaging (MRI) is one of the most important challenges for abdominal radiologists. Based on their interpretation, patients are referred back with no need for follow-up or they may undergo further analysis with subsequent treatments including surgery or chemotherapy. In current practice, the differential diagnosis of liver lesions is based on subjective and qualitative assessment, relying vastly on the experience of the local radiologist. More objective and quantitative approaches are therefore urgently needed. 
 
-        {{< figure src="/img/projects/lai/lai_overview.png" class="center" width="50%" >}}
+        {{< figure src="/about_lai/lai_overview.png" class="center" width="50%" >}}
 
         Recently, major advances were made in machine learning methods for automatic quantification of medical images. To develop such methods for liver lesion diagnosis, large collections of clinically representative MRI data with ground truth labels are needed for model training and validation. Such datasets are currently not available, and as a result there is little progress in the development of machine learning methods for liver lesion diagnosis.
 
         To address this, we have initiated the Liver Artificial Intelligence (LAI) consortium, consisting of leading abdominal radiologists in the field of liver imaging from 14 medical centers worldwide, and scientists in the field of image analysis and machine learning.
 
-        {{< figure src="/img/projects/lai/lai_worldmap_cropped.jpg" class="center" width="75%" >}}
+        {{< figure src="/about_lai/lai_worldmap_cropped.jpg" class="center" width="75%" >}}
 
-        {{< figure src="/img/projects/lai/lai_board.jpg" class="center" width="75%" >}}
+        {{< figure src="/about_lai/lai_board.jpg" class="center" width="75%" >}}
 
         The mission of the LAI consortium is to fast-forward the development, validation, and implementation of machine learning methods that could support MRI-based diagnosis of liver lesions. In the current project proposal, we define three key objectives that contribute to this mission:
         1) to create a benchmark MRI data collection, aiming at 3000+ scans with corresponding ground truth labels, accessible to researchers worldwide
