@@ -10,7 +10,7 @@ last_name: Hemmen
 superuser: false
 
 # Role/position
-role: Project Manager , Erasmus MC
+role: Project Manager, Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
