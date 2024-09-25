@@ -10,7 +10,7 @@ last_name: Starmans
 superuser: true
 
 # Role/position
-role: Assistant professor, Erasmus MC
+role: Assistant Professor, Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
