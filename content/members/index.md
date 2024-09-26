@@ -15,6 +15,7 @@ sections:
           - Scientific Board
           - Advisory Board
           - Clinical Advisors
+          - User Committee
           - PhD Students & Enablers
       sort_by: Params.last_name
       sort_ascending: true
