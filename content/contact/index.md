@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         Are you interested in joining the consortium, want to contribute, or do you have a question? Please reach out to us! We would be more than happy to assist you.
-      email: test@example.org
+      email: lai.info@erasmusmc.nl
       address:
         street: Dr. Molewaterplein 40
         city: Rotterdam
