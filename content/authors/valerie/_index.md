@@ -61,6 +61,7 @@ highlight_name: true
 user_groups:
   - Advisory Board
   - Scientific Board
+  - User Committee
 ---
 # Biography
  
