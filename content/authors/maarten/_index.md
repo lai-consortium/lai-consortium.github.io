@@ -62,5 +62,3 @@ user_groups:
   - Managing Board
 ---
 # Biography
-I did my training in Leuven and have been working as a criminal physician in the radiology department here since 2002. I received my PhD in October 2018. My heart lies in figuring out complex abdominal pathologies especially when the diagnosis is not obvious.
-obvious. In this reference center for liver diseases and gynecological oncology I can therefore find my way well 
