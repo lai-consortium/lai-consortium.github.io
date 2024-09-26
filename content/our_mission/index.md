@@ -20,9 +20,9 @@ sections:
 
         To address this, we have initiated the Liver Artificial Intelligence (LAI) consortium, consisting of leading abdominal radiologists in the field of liver imaging from 14 medical centers worldwide, and scientists in the field of image analysis and machine learning.
 
-        {{< figure src="/about_lai/lai_worldmap_cropped.jpg" class="center" width="75%" >}}
+        {{< figure src="/about_lai/lai_worldmap_cropped.png" class="center" width="75%" >}}
 
-        {{< figure src="/about_lai/lai_board.jpg" class="center" width="75%" >}}
+        {{< figure src="/about_lai/board_overview_v2.png" class="center" width="75%" >}}
 
         The mission of the LAI consortium is to fast-forward the development, validation, and implementation of machine learning methods that could support MRI-based diagnosis of liver lesions. In the current project proposal, we define three key objectives that contribute to this mission:
         1) to create a benchmark MRI data collection, aiming at 3000+ scans with corresponding ground truth labels, accessible to researchers worldwide

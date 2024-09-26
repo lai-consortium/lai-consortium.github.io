@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: about_lai/lai_worldmap_cropped.jpg
+          filename: about_lai/lai_worldmap_cropped.png
           filters:
             brightness: 1
           parallax: false
