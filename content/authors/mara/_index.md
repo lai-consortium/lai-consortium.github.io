@@ -62,3 +62,10 @@ user_groups:
   - PhD Students & Enablers
 ---
 # Biography
+Mara Veenstra is a medical doctor currently pursuing a PhD in the Department of Radiology & Nuclear Medicine at Erasmus University Medical Center in Rotterdam, the Netherlands. She studied medicine at Erasmus University Rotterdam from 2016 to 2023. During her studies, Mara developed a strong interest in research and collaborated on several projects:
+
+- 2017–2020: Provided illustrations for manuscripts on abdominal wall surgery and bariatric surgery (PMID 30685071, 34374871).
+- November 2019–August 2020: Worked at the University of Queensland and the Translational Research Institute (TRI) in Brisbane, Australia, researching patient outcomes following surgery for gastroesophageal cancer (PMID 33609389).
+- 2021–2023: During her clinical rotations, she collaborated with Memorial Sloan Kettering Cancer Center in New York, USA, to compare gastrectomy outcomes between a specialized cancer center and high-volume hospitals in the Netherlands (manuscript under review).
+
+Mara has completed elective clinical rotations in Radiology & Nuclear Medicine, Pathology, and Surgery and aims to become a medical specialist in Radiology & Nuclear Medicine. She began her PhD in August 2023, focusing on the clinical translation of novel radiopharmaceuticals in hepatobiliary and gynecologic cancers. Currently, she is the coordinating researcher of the FAPIChol study (NCT06355427), a prospective multicenter phase II/III clinical trial evaluating the diagnostic accuracy and cost-effectiveness of preoperative 18F-FAPI PET/CT in patients with cholangiocarcinoma. 
