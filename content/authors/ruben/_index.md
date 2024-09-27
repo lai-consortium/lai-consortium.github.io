@@ -63,8 +63,8 @@ user_groups:
 ---
 **Research**
 
-Ruben started his PhD project in july 2024 at the BIGR group. The focus of his research is on the development of a benchmark dataset and optimized machine learning methods for the MRI-based diagnosis of solid appearing liver lesions. This project is part of the Liver Artificial Intelligence (LAI) consortium, which aims to fast-forward the development, validation, and implementation of machine learning methods that could support MRI-based diagnosis of liver lesions.
+Ruben started his PhD project in July 2024 at the Biomedical Imaging Group Rotterdam (BIGR) in the Erasmus Medical Center Rotterdam, The Netherlands. The focus of his research is on the development of a benchmark dataset and optimized machine learning methods for the MRI-based diagnosis of solid-appearing liver lesions. This project is part of the Liver Artificial Intelligence (LAI) consortium, which aims to fast-forward the development, validation, and implementation of machine learning methods that could support MRI-based diagnosis of liver lesions.
 
 **Background**
 
-Ruben completed his BSc degree in Applied Physics at TU Delft in 2021. After that he started his MSc in Biomedical Engineering - Medical Physics at TU Delft, for which he completed his MSc thesis at BIGR and the department of Obstretics and Gynecology at the Erasmus MC in 2024. His MSc thesis was about developping a method for automated Carnegie staging of the human embryo in 3D ultrasound using deep learning.
+Ruben completed his BSc degree in Applied Physics at TU Delft in 2021. After that, he started his MSc in Biomedical Engineering - Medical Physics at TU Delft, for which he completed his MSc thesis at BIGR and the Department of Obstetrics and Gynecology at the Erasmus MC in 2024. His MSc thesis was about developing a method for automated Carnegie staging of the human embryo in 3D ultrasound using deep learning.
