@@ -36,6 +36,8 @@ role: Erasmus MC
 #      institution: Massachusetts Institute of Technology
 #      year: 2008
 
+personal_website = "https://mstarmans91.github.io/"
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
