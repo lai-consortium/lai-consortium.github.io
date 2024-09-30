@@ -10,7 +10,7 @@ last_name: Thomeer
 superuser: false
 
 # Role/position
-role: Radiologist, Erasmus MC
+role: Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
