@@ -42,8 +42,9 @@ role: Erasmus MC
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: table-list
-    icon_pack = fa
-    link = "https://pure.eur.nl/en/persons/martijn-starmans"
+    icon_pack: fa
+    link: 'https://pure.eur.nl/en/persons/martijn-starmans'
+social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:m.starmans@erasmusmc.nl'
