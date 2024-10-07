@@ -10,7 +10,7 @@ last_name: Thomeer
 superuser: false
 
 # Role/position
-role: Erasmus MC, The Netherlands
+role: Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
