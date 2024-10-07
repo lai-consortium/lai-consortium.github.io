@@ -10,7 +10,7 @@ last_name: Kuiper
 superuser: false
 
 # Role/position
-role: Director, Dutch Liver Patients Association (NLV)
+role: Dutch Liver Patients Association (NLV)
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
