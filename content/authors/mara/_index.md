@@ -10,7 +10,7 @@ last_name: Veenstra
 superuser: true
 
 # Role/position
-role: PhD Student, Erasmus MC
+role: Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
