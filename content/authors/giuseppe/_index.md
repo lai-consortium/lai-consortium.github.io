@@ -10,7 +10,7 @@ last_name: Brancatelli
 superuser: false
 
 # Role/position
-role: Professor, University of Palermo, Italy.
+role: University of Palermo
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
