@@ -10,7 +10,7 @@ last_name: Bali
 superuser: false
 
 # Role/position
-role: Radiologist, Institut Jules Bordet
+role: Institut Jules Bordet
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
