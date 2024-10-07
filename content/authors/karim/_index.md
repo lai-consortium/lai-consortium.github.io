@@ -10,7 +10,7 @@ last_name: Lekadir
 superuser: false
 
 # Role/position
-role: Professor , Universitat de Barcelona
+role: University of Barcelona
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
