@@ -10,7 +10,7 @@ last_name: Ijzermans
 superuser: false
 
 # Role/position
-role: Professor, Erasmus MC
+role: Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
