@@ -10,7 +10,7 @@ last_name: Illerstam
 superuser: false
 
 # Role/position
-role: Product Manager Clinical and Education, Collective Minds Radiology
+role: Collective Minds Radiology
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
