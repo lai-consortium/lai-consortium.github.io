@@ -10,7 +10,7 @@ last_name: Erdmann
 superuser: false
 
 # Role/position
-role: Professor, Medical University of Gdansk
+role: Medical University of Gdańsk
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
