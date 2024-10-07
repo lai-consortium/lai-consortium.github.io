@@ -10,7 +10,7 @@ last_name: Kutaiba
 superuser: false
 
 # Role/position
-role: Radiologist, Austin Health
+role: Austin Hospital
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
