@@ -10,7 +10,7 @@ last_name: Bobowicz
 superuser: false
 
 # Role/position
-role: Assistant Professor, Medical University of Gdansk
+role: Medical University of Gdánsk
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
