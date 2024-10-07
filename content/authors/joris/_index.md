@@ -10,7 +10,7 @@ last_name: Erdmann
 superuser: false
 
 # Role/position
-role: Surgeon, Amsterdam UMC
+role: Amsterdam UMC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
