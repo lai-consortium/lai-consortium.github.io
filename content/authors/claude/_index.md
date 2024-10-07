@@ -10,7 +10,7 @@ last_name: Sirlin
 superuser: false
 
 # Role/position
-role: Professor , University of California San Diego
+role: University of California, San Diego
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
