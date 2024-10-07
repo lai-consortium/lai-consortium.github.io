@@ -10,7 +10,7 @@ last_name: Taouli
 superuser: false
 
 # Role/position
-role: Professor, Icahn School of Medicine at Mount Sinai
+role: Icahn School of Medicine at Mount Sinai
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
