@@ -10,7 +10,7 @@ last_name: Laere​
 superuser: false
 
 # Role/position
-role: Legal Officer, Erasmus MC​
+role: Erasmus MC​
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
