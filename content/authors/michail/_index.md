@@ -10,7 +10,7 @@ last_name: Doukas
 superuser: false
 
 # Role/position
-role: Pathologist, Erasmus MC
+role: Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
