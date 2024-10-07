@@ -10,7 +10,7 @@ last_name: Faggioni
 superuser: false
 
 # Role/position
-role: Radiologist, Università di Pisa
+role: University of Pisa
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
