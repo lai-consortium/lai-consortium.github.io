@@ -10,7 +10,7 @@ last_name: Nordell
 superuser: false
 
 # Role/position
-role: CEO, Collective Minds Radiology
+role: Collective Minds Radiology
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
