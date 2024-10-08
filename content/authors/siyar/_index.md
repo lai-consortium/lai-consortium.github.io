@@ -10,7 +10,7 @@ last_name: Kisin
 superuser: false
 
 # Role/position
-role: Technology Transfer Office, Erasmus MC
+role: Erasmus MC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
