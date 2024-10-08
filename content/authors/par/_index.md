@@ -10,7 +10,7 @@ last_name: Kragsterman
 superuser: false
 
 # Role/position
-role: CTO, Collective Minds Radiology
+role: Collective Minds Radiology
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
