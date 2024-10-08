@@ -10,7 +10,7 @@ last_name: Vilgrain
 superuser: false
 
 # Role/position
-role: Professor, Assistance publique – Hôpitaux de Paris
+role: Assistance publique – Hôpitaux de Paris
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
