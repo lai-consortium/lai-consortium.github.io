@@ -1,6 +1,7 @@
 ---
 title: Twelve New Members Join the LAI Consortium 
 date: 2024-09-25
+authors: ["ruben"]
 ---
 
 Medical centers from Europe, the U.S., and Australia join the Liver AI Consortium 
