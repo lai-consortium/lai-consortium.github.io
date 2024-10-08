@@ -10,7 +10,7 @@ last_name: Meijer
 superuser: false
 
 # Role/position
-role: Professor, UMC Groningen
+role: UMC Groningen
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
