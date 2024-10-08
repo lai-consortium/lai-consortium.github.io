@@ -10,7 +10,7 @@ last_name: Delden
 superuser: false
 
 # Role/position
-role: Amsterdam UMC
+role: Dutch Hepatocellular & Cholangiocarcinoma Group (DHCG)
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
