@@ -10,7 +10,7 @@ last_name: Delden
 superuser: false
 
 # Role/position
-role: Professor, Amsterdam UMC
+role: Amsterdam UMC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
