@@ -10,7 +10,7 @@ last_name: Miclea
 superuser: false
 
 # Role/position
-role: Radiologist, Maastricht UMC+
+role: Maastricht UMC+
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
