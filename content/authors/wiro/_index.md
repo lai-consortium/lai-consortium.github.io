@@ -10,7 +10,7 @@ last_name: Niessen
 superuser: false
 
 # Role/position
-role: Professor , Erasmus MC
+role: UMC Groningen
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
