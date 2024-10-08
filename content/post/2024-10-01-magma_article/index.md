@@ -1,6 +1,7 @@
 ---
 title: LAI consortium mentioned in MAGMA
 date: 2024-10-01
+authors: ["ruben"]
 ---
 
 LAI consortium mentioned in Journal of Dutch Association of Gastroenterologists.
