@@ -10,7 +10,7 @@ last_name: Haas
 superuser: false
 
 # Role/position
-role: Radiologist, UMC Groningen
+role: UMC Groningen
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
