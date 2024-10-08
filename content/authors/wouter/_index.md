@@ -10,7 +10,7 @@ last_name: Veldhuis
 superuser: false
 
 # Role/position
-role: Associate Professor, Utrecht UMC
+role: Utrecht UMC
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
