@@ -10,7 +10,7 @@ last_name: Erdmann
 superuser: false
 
 # Role/position
-role: Amsterdam UMC
+role: Dutch Benign Liver tumor Group (DBLTG)
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
