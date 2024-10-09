@@ -61,6 +61,6 @@ highlight_name: true
 user_groups:
   - Scientific Board
 ---
-# Biography
+Dr. Giuseppe Brancatelli is Professor and Chairman of the Department of Radiology at the University of Palermo, Italy.
  
 

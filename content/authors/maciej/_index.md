@@ -40,10 +40,11 @@ role: Medical University of Gdánsk
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:'
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://ppm.gumed.edu.pl/info/author/GUM3125743be3814342bca09e8aac24bbe5/Person%2Bprofile%2B%25E2%2580%2593%2BMaciej%2BBobowicz%2B%25E2%2580%2593%2BMedical%2BUniversity%2Bof%2BGda%25C5%2584sk?affil=&r=author&tab=&lang=en&qp'
+   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,6 +62,6 @@ highlight_name: true
 user_groups:
   - Scientific Board
 ---
-# Biography
+Dr. Maciej Bobowicz is surgical oncologist and assistant professor at the Department of Radiology at the Medical Univeristy of Gdańsk, Poland. 
  
 

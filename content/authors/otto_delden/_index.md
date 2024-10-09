@@ -40,10 +40,10 @@ role: Amsterdam UMC, Dutch Hepatocellular & Cholangiocarcinoma Group (DHCG)
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:'
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.amsterdamumc.org/en/research/researchers/otto-van-delden.htm'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,6 +62,6 @@ user_groups:
   - Scientific Board
   - User Committee
 ---
-# Biography
+Prof. dr. Otto van Delden is radiologist and full professor of radiology and nuclear medicine at the Amsterdam UMC, The Netherlands. He is member of the Dutch Hepatocellular & Cholangiocarcinoma Group (DHCG).
  
 

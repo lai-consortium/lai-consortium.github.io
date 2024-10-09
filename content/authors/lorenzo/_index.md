@@ -61,6 +61,4 @@ highlight_name: true
 user_groups:
   - Scientific Board
 ---
-# Biography
- 
-
+Dr. Lorenzo Faggioni is a radiologist at The University Hospital of Pisa.
