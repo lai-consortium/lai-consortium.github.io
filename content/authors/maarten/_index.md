@@ -41,6 +41,9 @@ role: Erasmus MC
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.erasmusmc.nl/nl-nl/patientenzorg/zorgverleners/thomeer-mgj#19095cb5-e00b-45d7-a550-48e77a0a069f'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:m.thomeer@erasmusmc.nl'

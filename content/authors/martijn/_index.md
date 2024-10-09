@@ -41,10 +41,9 @@ role: Erasmus MC
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: table-list
-    icon_pack: fa
-    link: 'https://pure.eur.nl/en/persons/martijn-starmans'
-social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://bigr.nl/member/martijn/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:m.starmans@erasmusmc.nl'
