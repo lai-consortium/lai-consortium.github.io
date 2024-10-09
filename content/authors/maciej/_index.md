@@ -62,6 +62,7 @@ highlight_name: true
 user_groups:
   - Scientific Board
 ---
+# Biography
 Dr. Maciej Bobowicz is surgical oncologist and assistant professor at the Department of Radiology at the Medical Univeristy of Gdańsk, Poland. 
  
 

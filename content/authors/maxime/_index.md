@@ -40,10 +40,10 @@ role: Assistance publique – Hôpitaux de Paris
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:'
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.aphp.fr/offre-de-soin/medecin/3099347/005/19'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,5 +62,5 @@ user_groups:
   - Scientific Board
 ---
 # Biography
- 
+ Prof. Maxime Ronot is professor at the Université de Paris, and works in the Department of Medical Imaging at the Beaujon University Hospital in Clichy, France.
 

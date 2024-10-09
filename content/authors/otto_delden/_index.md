@@ -62,6 +62,7 @@ user_groups:
   - Scientific Board
   - User Committee
 ---
+# Biography
 Prof. dr. Otto van Delden is radiologist and full professor of radiology and nuclear medicine at the Amsterdam UMC, The Netherlands. He is member of the Dutch Hepatocellular & Cholangiocarcinoma Group (DHCG).
  
 

@@ -62,5 +62,5 @@ user_groups:
   - Scientific Board
 ---
 # Biography
- 
+ Dr. Numan Kutaiba is abdominal and breast radiologist at Austin Health, Melbourne, Australia.
 

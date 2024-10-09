@@ -61,6 +61,7 @@ highlight_name: true
 user_groups:
   - Scientific Board
 ---
+# Biography
 Prof. Dr. Maria Antonietta Bali is head of Radiology Department at the Institut Jules Bordet in Brussels, Belgium.
  
 

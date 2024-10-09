@@ -40,10 +40,10 @@ role: Icahn School of Medicine at Mount Sinai
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:'
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://profiles.mountsinai.org/bachir-taouli'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,5 +62,5 @@ user_groups:
   - Scientific Board
 ---
 # Biography
- 
+ Prof. Bachir Taouli is Professor of Radiology and Medicine in the Body Imaging Section (Department of Radiology) and the Translational and Molecular Imaging Institute (TMII) at the Icahn School of Medicine at Mount Sinai, New York, USA.
 
