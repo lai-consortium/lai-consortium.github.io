@@ -4,7 +4,7 @@ title: Wendy van Hemmen
 
 # Full Name (for SEO)
 first_name: Wendy
-last_name: Hemmen
+last_name: van Hemmen
 
 # Is this the primary user of the site?
 superuser: false
@@ -62,5 +62,4 @@ user_groups:
   - PhD Students & Enablers
 ---
 # Biography
- 
-
+Dr. Wendy van Hemmen is Senior project manager (research) at Erasmus MC Rotterdam, The Netherlands.

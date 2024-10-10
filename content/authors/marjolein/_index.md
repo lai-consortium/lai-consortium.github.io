@@ -4,7 +4,7 @@ title: Marjolein van Laere​
 
 # Full Name (for SEO)
 first_name: Marjolein
-last_name: Laere​
+last_name: van Laere​
 
 # Is this the primary user of the site?
 superuser: false
@@ -62,5 +62,4 @@ user_groups:
   - PhD Students & Enablers
 ---
 # Biography
- 
-
+Marjolein van Laere is Legal Counsel at Erasmus MC Rotterdam, The Netherlands.
