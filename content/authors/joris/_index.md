@@ -10,7 +10,7 @@ last_name: Erdmann
 superuser: false
 
 # Role/position
-role: Dutch Benign Liver tumor Group (DBLTG)
+role: Amsterdam UMC, Dutch Benign Liver tumor Group (DBLTG)
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
@@ -40,10 +40,10 @@ role: Dutch Benign Liver tumor Group (DBLTG)
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:'
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://www.vumc.nl/zorg/uw-artsen-en-zorgverleners/zorgverlener/dr.-j.i.-joris-erdmann.htm'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,5 +63,4 @@ user_groups:
   - User Committee
 ---
 # Biography
- 
-
+Dr. Joris Erdmann is Hepatobiliary and Pancreatic Surgeon at Amsterdam UMC, The Netherlands and member of the Dutch Benign Liver Tumour Group (DBLTG).

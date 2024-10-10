@@ -3,8 +3,8 @@
 title: Edyta Szurowska
 
 # Full Name (for SEO)
-first_name: Szurowska
-last_name: Erdmann
+first_name: Edyta
+last_name: Szurowska
 
 # Is this the primary user of the site?
 superuser: false
@@ -40,10 +40,10 @@ role: Medical University of Gdańsk
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:'
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://ppm.gumed.edu.pl/info/author/GUM276b1a702c794fa4a2eabbc91e2a04ec/Person%2Bprofile%2B%25E2%2580%2593%2BEdyta%2BSzurowska%2B%25E2%2580%2593%2BMedical%2BUniversity%2Bof%2BGda%25C5%2584sk?ps=20&lang=en&pn=1'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,5 +62,4 @@ user_groups:
   - Clinical Advisors
 ---
 # Biography
- 
-
+Prof. Dr. Habil. Edyta Szurowska is Head of the Radiology Department and Professor of Medicine at the Medical University of Gdańsk, Poland.
