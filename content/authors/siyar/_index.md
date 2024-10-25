@@ -59,4 +59,8 @@ user_groups:
   - User Committee
 ---
 # Biography
-Siyar Kisin is Senior Business Development Manager at Technology Transfer Office of Erasmus MC Rotterdam, The Netherlands.
+Siyar is an experienced business development professional, currently serving as the Senior Business Development Manager at Erasmus MC’s Technology Transfer Office. With a robust academic foundation in Bio-Pharmaceutical Sciences from Leiden University, Siyar holds a Master’s degree specializing in Science Based Business, equipping him with a unique blend of scientific knowledge and business acumen.
+
+Before joining Erasmus MC in 2019, Siyar accumulated five years of diverse experience in various business roles within multinational companies. His expertise spans key areas such as account management, negotiations, and intellectual property protection, making him a valuable asset in navigating the complexities of technology transfer and commercialization.
+
+Siyar is dedicated to utilizing his skills to support the LAI consortium in achieving its mission to positively impact the lives of patients.
