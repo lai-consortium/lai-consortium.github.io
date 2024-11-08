@@ -62,4 +62,4 @@ user_groups:
   - User Committee
 ---
 # Biography
-Frederik Illerstam is Product Manager Clinical and Education at Collective Minds Radiology.
+Fredrik Illerstam (Fred) works with Business Development at Collective Minds where he oversees activities across strategic projects and activities in Academia, both in Research and Education. Having been a part of the Collective Minds Radiology Company since its early days, Fred also acts as a point of contact between the LAI consortium, other (potential) collaborators, and the teams within Collective Minds from Engineering, Product Specialist teams and Company Leadership. Fred is based at the Collective Minds headquarters in Stockholm, and has a background in Engineering and MRI.
