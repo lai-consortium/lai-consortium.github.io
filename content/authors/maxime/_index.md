@@ -62,5 +62,13 @@ user_groups:
   - Scientific Board
 ---
 # Biography
- Prof. Maxime Ronot is professor at the Université de Paris, and works in the Department of Medical Imaging at the Beaujon University Hospital in Clichy, France.
+Prof. Maxime Ronot is affiliated with the Université Paris Cité and is the Head of the Department of Medical Imaging at Beaujon University Hospital in Clichy, France.
+
+Specializing in abdominal imaging, he focuses on liver and pancreas diseases and tumors, interventional abdominal oncology, and abdominal vascular diseases. He holds memberships in various prominent French and European radiology societies, including the French and European Societies of Radiology and the European Society of Gastrointestinal and Abdominal Radiology (ESGAR).
+
+He is a member of the LI-RADS steering committee. In this capacity, he chairs the LI-RADS benign liver lesions group and contributes to the LI-RADS AI and cholangiocarcinoma groups and the CIRSE AI task force.
+
+Prof. Ronot has authored or coauthored over 350 articles and books.
+
+Furthermore, he serves as the president of the French national ethics committee for medical imaging research.
 
