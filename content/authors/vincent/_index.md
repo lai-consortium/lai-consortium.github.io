@@ -62,4 +62,4 @@ user_groups:
   - Clinical Advisors
 ---
 # Biography
-Prof. dr. Vincent de Meijer is Professor of HPB Surgery and Liver Transplantation for pediatrics and adults at University Medical Center Groningen, The Netherlands.
+Prof. De Meijer currently serves as Professor of Surgery at the University of Groningen, Head of the Liver Transplant Program at the University Medical Center Groningen, and Chair of the UMCG Comprehensive Transplant Center. He has made transformative contributions to the field of liver transplantation through pioneering work in machine perfusion techniques. His research focuses on the implementation of prolonged hypothermic oxygenated machine perfusion of donor livers, aiming to reduce the need for nighttime transplantations—a development with significant potential to reshape clinical practice. Additionally, he founded the Dutch Benign Liver Tumor Group and established a national network to foster clinical and scientific collaboration.
