@@ -62,5 +62,4 @@ user_groups:
   - Scientific Board
 ---
 # Biography
- Dr. Numan Kutaiba is abdominal and breast radiologist at Austin Health, Melbourne, Australia.
-
+Numan completed medical training at the University of Baghdad, Iraq. He moved to Australia and completed a Master’s degree in Clinical Epidemiology, at the University of Sydney, prior to completing training in Radiology at Austin Health, Melbourne, Australia. He currently works at Austin Health as an abdominal radiologist. His research interests involve quantitative measurements and machine learning in liver imaging.
