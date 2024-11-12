@@ -76,7 +76,7 @@ Dr. Lorenzo Faggioni is a radiologist and assistant professor at The University 
 **Research activity**
 <ul>
 <li>Oncologic and cardiovascular applications of CT and MRI, radiation protection and contrast media optimization, imaging informatics</li>
-<li>To date, editor of 3 books and author of more than 100 articles published in indexed journals (https://pubmed.ncbi.nlm.nih.gov/?term=faggioni+lorenzo&sort=), more than 20 book chapters, and more than 200 presentations at national and international conferences</li>
+<li>To date, editor of 3 books and author of more than 100 articles published in indexed journals ([PubMed Profile](https://pubmed.ncbi.nlm.nih.gov/?term=faggioni+lorenzo&sort=)), more than 20 book chapters, and more than 200 presentations at national and international conferences</li>
 </ul>
 
 **Professional affiliations**
