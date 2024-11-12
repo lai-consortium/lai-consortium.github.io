@@ -62,7 +62,7 @@ user_groups:
   - Scientific Board
 ---
 # Biography
-Dr. Lorenzo Faggioni is a radiologist and assistent professor at The University Hospital of Pisa.
+Dr. Lorenzo Faggioni is a radiologist and assistant professor at The University Hospital of Pisa.
 
 **Education and employment**
 • MD degree in Medicine and Surgery (2004) and board certification in Diagnostic and
