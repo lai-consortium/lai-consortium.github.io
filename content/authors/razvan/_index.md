@@ -62,5 +62,6 @@ user_groups:
   - Scientific Board
 ---
 # Biography
- Dr. Razvan Miclea is a radiologist at the Maastricht UMC+, The Netherlands.
+Dr. Razvan Miclea is an abdominal radiologist working within the Department of Radiology and Nuclear Medicine at the Maastricht University Medical Centre in the Netherlands. His clinical and research work is mainly focused on hepato-pancreatico-biliary and urological imaging.
+
 
