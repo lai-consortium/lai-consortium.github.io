@@ -10,7 +10,7 @@ last_name: Bobowicz
 superuser: false
 
 # Role/position
-role: Medical University of Gdánsk
+role: Medical University of Gdańsk
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
