@@ -64,3 +64,11 @@ user_groups:
 # Biography
  Dr. Robbert de Haas is a radiologist at the University Medical Center Groningen, The Netherlands.
 
+
+- Focus areas: abdominal radiology, hepato-pancreato-biliary and transplant radiology, pediatric radiology
+- Member of treatment teams colon cancer, neuroendocrine tumors, HPB cancer
+- Fellow of the European Society of Gastrointestinal and Abdominal Radiology (ESGAR)
+- Member of Dutch Benign Liver Tumor Group (DBLTG) and research committee DBLTG
+- Member working group bile blow deviation, national registration gallbladder polyps and gallbladder carcinomas
+
+
