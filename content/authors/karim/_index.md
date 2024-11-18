@@ -62,5 +62,5 @@ user_groups:
   - Advisory Board
 ---
 # Biography
-Dr. Karim Lekadir is an ICREA Research Professor in the Department of Mathematics and Computer Science at the University of Barcelona.
+Karim Lekadir is an ICREA Research Professor in the Department of Mathematics and Computer Science at the University of Barcelona. He obtained his PhD from Imperial College London and was a postdoctoral researcher at Stanford University. He investigates new data science techniques for trustworthy and ethical artificial intelligence in medicine. He has been PI in 12 EU-funded projects, coordinated 5 Horizon projects, and was awarded an ERC Consolidator grant to investigate new AI techniques tailored to resource-limited settings. In addition, Karim is General Chair for the MICCAI 2024 Conference (Medical Image Computing and Computer-Assisted Intervention) which for the first time took place in Africa – in Marrakesh, Morocco. 
 
