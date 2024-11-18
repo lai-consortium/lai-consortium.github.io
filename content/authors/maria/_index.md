@@ -12,8 +12,8 @@ superuser: false
 # Role/position
 role: Institut Jules Bordet
 # Organizations/Affiliations
-#organizations:
-#  - name: Stanford University
+organizations:
+  - name: Head of Radiology Department
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -62,6 +62,21 @@ user_groups:
   - Scientific Board
 ---
 # Biography
-Prof. Dr. Maria Antonietta Bali is head of Radiology Department at the Institut Jules Bordet in Brussels, Belgium.
- 
+Professor Bali completed the medical degree and training in diagnostic radiology at the University “Federico II” of Naples (Italy).
+
+From 1999 to 2003 she was appointed as a clinical fellow in abdominal imaging in the Radiology Department of the Erasme Hospital, at the Université Libre de Bruxelles (Belgium) and as a research fellow in the MR Unit, focusing on functional MR imaging of the pancreas with a research grant from the Erasme Foundation.
+
+Her main clinical and research interests are in hepato-biliary and pancreatic diseases including cancer.
+
+She obtained the PhD degree in Biomedical Science in 2011 with a thesis entitled “Non-invasive quantitative evaluation of the exocrine pancreas in physiologic and pathologic conditions using functional magnetic resonance imaging” (ULB).
+
+Between 2015 and 2018 she was appointed as Senior Consultant in Cancer Imaging at The Royal Marsden Hospital in London, UK. Since August 2020, she is Head of the Radiology Department at the Cancer Institut Jules Bordet in Brussels and Vice-Director of the Master in Radiology Speciality, ULB, Belgium.
+
+Professor Bali is an active member of several international radiologic societies: member of the Executive Committee of the European Society of Gastrointestinal and Abdominal Radiology (ESGAR), Chairperson of the ESGAR Workshop Committee from 2010-2023, Chairperson for the Abdominal Imaging section for ECR 2016, fellow of ICIS and member of the EORTC imaging, gastrointestinal cancer and Minimal Residual disease task force groups, member of EIBALL-ESR, member of RSNA .
+
+She accounts several invited lectures in national and international radiological and gastroenterological meetings as ESGAR, ECR, RSNA, ISMRM, UEG, KCR, BAR, ESUR, ICIS, SAR, BWG.
+
+In 2005 she received the European Radiology ESGAR Award and the Best Abstract UEG Award.
+
+She is author of book chapters and several peer-review articles. 
 
