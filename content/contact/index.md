@@ -6,12 +6,12 @@ type: landing
 
 sections:
   - block: markdown
-      content:
-        title: Download PDF
-        text: |
-          [Click here to download our flyer](lai_flyer.pdf)
-      design:
-        columns: '1'
+    content:
+      title: View Our PDF
+      text: |
+        <embed src="lai_flyer.pdf" type="application/pdf" width="100%" height="600px" />
+    design:
+      columns: '1'
 
   - block: contact
     content:
