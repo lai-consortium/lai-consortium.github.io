@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: View Our PDF
+      title: Interested in joining the LAI Consortium? See our flyer
       text: |
         <embed src="lai_flyer.pdf" type="application/pdf" width="100%" height="600px" />
     design:
