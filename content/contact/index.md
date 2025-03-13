@@ -5,6 +5,14 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+      content:
+        title: Download PDF
+        text: |
+          [Click here to download our flyer](lai_flyer.pdf)
+      design:
+        columns: '1'
+
   - block: contact
     content:
       title: Contact
