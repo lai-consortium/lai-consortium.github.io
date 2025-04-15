@@ -1,6 +1,6 @@
 ---
 title: LAI Consortium Agreement Signed by All Partners
-date: 2024-09-25
+date: 2025-04-15
 authors: ["ruben"]
 ---
 
