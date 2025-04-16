@@ -2,7 +2,7 @@
 title: The Liver Artificial Intelligence (LAI) Consortium: A Benchmark Dataset and Optimised Machine Learning Methods for MRI-based Diagnosis of Solid-appearing Liver Lesions
 date: '2025-10-08'
 draft: false
-publishDate:
+publishDate: '2025-10-08'
 authors:
 - Ruben Niemantsverdriet
 - Frederik Hartmann
