@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Melvin Kuiper
+title: Nederlandse Leverpatiënten Vereniging
 
 # Full Name (for SEO)
-first_name: Melvin
-last_name: Kuiper
+# first_name: Melvin
+# last_name: Kuiper
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Dutch Liver Patients Association (NLV)
+# role: Dutch Liver Patients Association (NLV)
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
@@ -43,7 +43,7 @@ role: Dutch Liver Patients Association (NLV)
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://www.leverpatientenvereniging.nl/bureau'
+    link: 'https://www.leverpatientenvereniging.nl'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +62,3 @@ user_groups:
   - User Committee
 ---
 # Biography
-Melvin Kuiper is Executive Director of the Dutch Liver Patients Association (NLV).
