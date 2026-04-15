@@ -65,7 +65,7 @@ user_groups:
   - Managing Board
 ---
 # Biography
-Dr. ir. Stefan Klein is Associate Professor in Applied Medical Image Analysis. He is General Chair of the Biomedical Imaging Group Rotterdam and holds a PI position at the department of Radiology and Nuclear Medicine of the Erasmus MC - University Medical Center Rotterdam, the Netherlands. 
+Prof. Dr. ir. Stefan Klein is Professor in Applied Medical Image Analysis. He is General Chair of the Biomedical Imaging Group Rotterdam and holds a PI position at the department of Radiology and Nuclear Medicine of the Erasmus MC - University Medical Center Rotterdam, the Netherlands. 
 
 His research focuses on the development and validation of novel medical image analysis methods using advanced computational methods based on numerical mathematics, signal processing, and artificial intelligence (AI) including (deep) machine learning. With his team, he brings state-of-the-art techniques from computer science to the medical imaging domain, further developing, optimising and rigorously validating them. He strongly believes in the power of open science to promote research reproducibility: sharing code, sharing data, and collaborating rather than competing. His interests span a wide range of domains: in the last 5 years he has worked on fundamental technology for accelerated magnetic resonance image (MRI) acquisition and quantification, multi-scale and multi-modal retina imaging, novel spatiotemporal models of the developing and aging brain, and AI-supported diagnosis and prediction methods for various types of cancer, neurodegenerative disorders, osteoarthritis, and major eye diseases. 
 
