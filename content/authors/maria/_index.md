@@ -10,10 +10,10 @@ last_name: Bali
 superuser: false
 
 # Role/position
-role: Institut Jules Bordet
+role: Fondazione Policlinico Universitario Agostino Gemelli IRCCS
 # Organizations/Affiliations
 organizations:
-  - name: Head of Radiology Department
+  - name: Head of UOS Hepatobiliopancreatic Imaging
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
